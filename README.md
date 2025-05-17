@@ -162,7 +162,6 @@ Acknowledgements
 
 ---
 
-LinkedIn Post
+LinkedIn 
 
  Connect with me on LinkedIn: https://www.linkedin.com/in/rohit-bangar-24b174305/ 
- Linkedin post : LinkedIn Post
