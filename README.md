@@ -157,12 +157,12 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Acknowledgements
 
-German Traffic Sign Recognition Benchmark (GTSRB)
-PyTorch for deep learning framework
+1. German Traffic Sign Recognition Benchmark (GTSRB)
+2. PyTorch for deep learning framework
 
 ---
 
 LinkedIn Post
 
-Connect with me on LinkedIn: https://www.linkedin.com/in/rohit-bangar-24b174305/ 
-Linkedin post : LinkedIn Post
+ Connect with me on LinkedIn: https://www.linkedin.com/in/rohit-bangar-24b174305/ 
+ Linkedin post : LinkedIn Post
