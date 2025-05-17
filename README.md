@@ -3,10 +3,12 @@ GTSRB Traffic Sign Classifier
 A deep learning-based image classification model trained on the German Traffic Sign Recognition Benchmark (GTSRB) dataset. This project uses Convolutional Neural Networks (CNNs) with class-specific data augmentation to achieve high test accuracy and balanced class-wise performance.
 
 Table of Contents
-
+---
 Overview
 
 Dataset
+
+Getting The Dataset
 
 Model Architecture
 
@@ -50,7 +52,11 @@ Testing images: ~12,000
 
 Images are resized to 32x32x3
 
+---
+📁 Getting the Dataset
+This project uses the German Traffic Sign Recognition Benchmark (GTSRB) dataset, available on Kaggle:
 
+👉 Kaggle - GTSRB - German Traffic Sign Recognition Benchmark
 
 ---
 
@@ -154,8 +160,6 @@ Acknowledgements
 German Traffic Sign Recognition Benchmark (GTSRB)
 
 PyTorch for deep learning framework
-
-OpenAI ChatGPT for code and analysis assistance
 ---
 
 LinkedIn Post
